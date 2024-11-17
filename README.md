@@ -31,4 +31,4 @@ This project involves the development and training of a CNN model to classify im
 2. Ensure you have the following dependencies installed:
    ```bash
    pip install torch torchvision matplotlib kaggle
-```
+   ```
